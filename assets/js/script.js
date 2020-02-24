@@ -5,7 +5,7 @@ function getData() {
     <nav>
       <div class="nav-brand">
         <a href="#">
-          <h6>Ablaze'T20</h6>
+          <h6>Ablaze T20</h6>
         </a>
       </div>
       <div class="menu open">
@@ -161,23 +161,23 @@ function getData() {
 <div class="card one">
 
   <div class="card_title title-white">
-    <h4>Symposium</h4>
-    <p>Registration Fee:  &#8377;200 only</p>
+    <h2>Symposium</h2>
+    <h3>Registration Fee: <br> &#8377;199 /-  only</h3>
   </div>
 </div>
 
   <div class="card two">
 
   <div class="card_title title-white">
-    <h4>Work Shop</h4>
-    <p>Registration Fee:  &#8377;200 only</p>
+    <h2>Work Shop</h2>
+    <h3>Registration Fee: <br> &#8377;199 /- only</h3>
   </div>
 </div>
 
 <div class="card three">
   <div class="card_title title-white">
-  <h4>Combo</h4>
-  <p>Registration Fee:  &#8377;300 only</p>
+  <h2>Combo</h2>
+  <h3>Registration Fee: <br> &#8377;299 /- only</h3>
   </div>
 </div>
   
@@ -198,7 +198,7 @@ function getData() {
           </h2>
           <div class="event-text">
             <p>
-              In this event, each team should have atmost 2 contestants.
+              Each team should have atmost 2 contestants.
             </p>
             <h4> MCQ test (online).</h4>
           </div>
@@ -209,11 +209,11 @@ function getData() {
       <div class="event event2">
         <div class="event-content event2-content">
           <h2>
-            Paper presentation
+            Paper tricks
           </h2>
           <div class="event-text">
             <p>
-              In this event, computer related topics or any latest
+              Computer related topics or any latest
               technologies can be presented.
             </p>
             <p>Cash prize will be awarded for winner and runner.</p>
@@ -232,7 +232,7 @@ function getData() {
           </h2>
           <div class="event-text">
             <p>
-              In this event, the given code have to be solved.
+              The given code have to be solved.
             </p>
             <h4>Try to solve our code.</h4>
           </div>
@@ -250,7 +250,7 @@ function getData() {
           </h2>
           <div class="event-text">
             <p>
-              In this event, totally there are 3 rounds.
+              Totally there are 3 rounds.
               <br>winner and runner will be rewarded.
             </p>
             <h4>P a y b a c k!</h4>
@@ -270,9 +270,9 @@ function getData() {
             Photography & <br>short-film
           </h2>
           <div class="event-text">
-            <p>Upload your photos in instagram link given below.</p>
+            <p>Send your photos in instagram link given below.</p>
               <p>Short film must have atleast 10 mins of duration.</p>    
-      <p><a href="https://www.instagram.com/ablaze_t20?r=nametag" target="_blank"><i class="fab fa-instagram"></i> Instagram</a></p>
+      <p><a class="insta" href="https://www.instagram.com/ablaze_t20?r=nametag" target="_blank"><i class="fab fa-instagram insta"></i> Instagram</a> <span><< </p>
           </div>
         </div>
       </div>
@@ -284,14 +284,14 @@ function getData() {
   <div class="left-wrapper">
     <div class="inner-div">
       <p class="menu-para">
-        <span> ABLAZE' T20 </span> is an inter college symposium held
+        <span> ABLAZET20 </span> is an inter college symposium held
         annually by the department of Computer Science and Engineering. Our
-        flagship event, ABLAZE' T20continues to inspire countless ideas,
+        flagship event, ABLAZE T20continues to inspire countless ideas,
         expedite innovative startups and a jam-packed cluster of events
-        designed for everyone. This year, ABLAZE' T20 sets out to champion
+        designed for everyone. This year, ABLAZE T20 sets out to champion
         the maniacs and misfits that refused the routine and achieved
         breakthroughs. With a digital environment filled with energetic
-        individuals, the ABLAZE' T20 on 10th of March aims to accelerate
+        individuals, the ABLAZE T20 on 10th of March aims to accelerate
         these ideas through the stratosphere. Because we know that great
         ideas are hard to come by!
       </p>
@@ -324,7 +324,7 @@ function getData() {
   <div class="about">
     
     <div class="about-card card1">
-      <h1>Chief Patron</h1>
+      <h1 id="title">Chief Patron</h1>
         <div class="ksr">
           <div class="lion">
             <img src="https://icsm2k19.github.io/assets/images/prof/Chairman1.png" height="100px" width="100px">
@@ -340,7 +340,7 @@ function getData() {
           </div>
           <div class="principal">
             <img src="https://icsm2k19.github.io/assets/images/prof/ksrce_principal.jpg" height="100px" width="100px">
-            <h5>Dr.P.Senthil Kumar</h5>
+            <h5>Dr.P.Senthil Kumar, M.E., Ph.D.,</h5>
             <p>Principal</p>
             <p>K.S.R. COLLEGE OF ENGINEERING</p>
           </div>
@@ -348,7 +348,7 @@ function getData() {
             <img src="http://www.ksrce.ac.in/admin/file_manager/source/BE%20(CSE)/UG-CSE/1.jpg" height="100px" width="100px">
             <h5>Dr. A. Rajiv Kannan, Ph.D.,</h5>
             <p>Head of the Department</p>
-            <p>Computer Science & ENGINEERING</p>
+            <p>COMPUTER SCIENCE & ENGINEERING</p>
           </div>
         </div>
       
@@ -356,11 +356,11 @@ function getData() {
     <div class="about-card card2">
       <div class="dep-co">
         <h5>Dr. V. Sharmila, Ph.D.,</h5>
-        <p>Department Co-ordinator</p>
+        <p>Class Co-ordinator</p>
         <p>Computer Science & ENGINEERING</p>
       </div>
 
-      <h1>Convener</h1>
+      <h1 id="title">Convener</h1>
 
       <ul class="convener">
         
@@ -391,7 +391,7 @@ function getData() {
         </li>
       </ul>
 
-      <h1>Committee</h1>
+      <h1 id="title">Committee</h1>
       <ul class="committee">
         <li>
           <p><b> K.Gokul</b> (Chairman)</p>
