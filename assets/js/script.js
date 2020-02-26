@@ -121,7 +121,7 @@ function getData() {
               Broucher
             </a>
 
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfon4P0qFNa_i6rzHlOPbKFYMO0xdBVY28whIz6FbkR1Gz1rg/viewform?usp=sf_link" target="_blank">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLScP39NdgWYL9HOWjlasTBUSjW9-iLxNUOiPLecAGIXInkpdiQ/viewform?usp=sf_link" target="_blank">
               <span></span>
               <span></span>
               <span></span>
@@ -162,7 +162,7 @@ function getData() {
 
   <div class="card_title title-white">
     <h2>Symposium</h2>
-    <h3>Registration Fee: <br> &#8377;199 /-  only</h3>
+    <h3>Registration Fee: <br> <span id="title1">&#8377;199 /- </span> only</h3>
   </div>
 </div>
 
@@ -170,14 +170,14 @@ function getData() {
 
   <div class="card_title title-white">
     <h2>Work Shop</h2>
-    <h3>Registration Fee: <br> &#8377;199 /- only</h3>
+    <h3>Registration Fee: <br> <span id="title1">&#8377;199 /-</span> only</h3>
   </div>
 </div>
 
 <div class="card three">
   <div class="card_title title-white">
   <h2>Combo</h2>
-  <h3>Registration Fee: <br> &#8377;299 /- only</h3>
+  <h3>Registration Fee: <br> <span id="title1">&#8377;299 /- </span>only</h3>
   </div>
 </div>
   
@@ -194,13 +194,13 @@ function getData() {
       <div class="event event1">
         <div class="event-content event1-content">
           <h2>
-            Technical quiz
+            think genius
           </h2>
           <div class="event-text">
             <p>
-              Each team should have atmost 2 contestants.
+              Prove yourself to this technical world.
             </p>
-            <h4> MCQ test (online).</h4>
+            <h4> MCQ test (Online).</h4>
           </div>
         </div>
       </div>
@@ -209,12 +209,11 @@ function getData() {
       <div class="event event2">
         <div class="event-content event2-content">
           <h2>
-            Paper tricks
+            Paper bestoval
           </h2>
           <div class="event-text">
             <p>
-              Computer related topics or any latest
-              technologies can be presented.
+              Recent topics in all engineering fields.
             </p>
             <p>Cash prize will be awarded for winner and runner.</p>
           </div>
@@ -228,13 +227,13 @@ function getData() {
       <div class="event event1">
         <div class="event-content event1-content">
           <h2>
-            Code debugging
+            Code olympia
           </h2>
           <div class="event-text">
             <p>
-              The given code have to be solved.
+              The code will be in <i class="fab fa-cuttlefish" id="title"></i> Language
             </p>
-            <h4>Try to solve our code.</h4>
+            <h4>Crush your brain to crash the code.</h4>
           </div>
         </div>
       </div>
@@ -284,16 +283,16 @@ function getData() {
   <div class="left-wrapper">
     <div class="inner-div">
       <p class="menu-para">
-        <span> ABLAZET20 </span> is an inter college symposium held
+        <span> ABLAZET20 </span> <i>is an inter college symposium held
         annually by the department of Computer Science and Engineering. Our
-        flagship event, ABLAZE T20continues to inspire countless ideas,
-        expedite innovative startups and a jam-packed cluster of events
-        designed for everyone. This year, ABLAZE T20 sets out to champion
+        flagship event, ABLAZET20 continues to inspire countless ideas,
+        expedite innovative startup and a jam-packed cluster of events
+        designed for everyone. This year, ABLAZET20 sets out to champion
         the maniacs and misfits that refused the routine and achieved
         breakthroughs. With a digital environment filled with energetic
-        individuals, the ABLAZE T20 on 10th of March aims to accelerate
+        individuals, the ABLAZET20 on 10<sup>th</sup> of March aims to accelerate
         these ideas through the stratosphere. Because we know that great
-        ideas are hard to come by!
+        ideas are hard to come by!</i>
       </p>
     </div>
   </div>
@@ -395,6 +394,12 @@ function getData() {
       <ul class="committee">
         <li>
           <p><b> K.Gokul</b> (Chairman)</p>
+        </li>
+        <li>
+          <p><b>S.Sathiya Raj</b> (Vice Chairman)</p>
+        </li>
+        <li>
+          <p><b> K.R.Prem Anand</b> (Vice Chairman)</p>
         </li>
         <li>
           <p><b> Nair Binesh Balan </b> (Secretory)</p>

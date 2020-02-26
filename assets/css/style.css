@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
 }
 html {
   scroll-behavior: smooth;
@@ -20,7 +19,8 @@ ul {
   list-style: none;
 }
 i,
-button {
+button, a{
+  color: black;
   cursor: pointer;
 }
 .container-fluid {
@@ -340,16 +340,6 @@ nav {
   width: 100%;
   position: relative;
 }
-/*
-  <div class="card 4">
-  <div class="card_image">
-    <img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" />
-    </div>
-  <div class="card_title title-black">
-    <p>Card Title</p>
-  </div>
-  </div>
-*/
 
 .cards-list{
   width: 100%;
@@ -402,12 +392,17 @@ nav {
   color: transparent;
 }
 #title {
-  background: linear-gradient(to right, #c04848, #480048);
+  font-size: 20px;
+  background: linear-gradient(to right, #5c1f42, #d81737); 
   -webkit-background-clip: text;
   color: transparent;
 }
-
-
+#title1 {
+  font-size: 30px;
+  background: #fff; 
+  -webkit-background-clip: text;
+  color: transparent;
+}
 @media all and (max-width: 500px) {
   .card-list {
     /* On small screens, we are no longer using row direction but column */
@@ -422,7 +417,8 @@ nav {
   margin: 5rem 5rem 0 5rem;
   padding: 0 1rem;
 }
-.symp-events h5:before {
+
+.symp-events h5:before{
   content: "";
   position: absolute;
   width: 5px;
@@ -559,16 +555,16 @@ nav {
   padding: 0 1rem;
   text-align: justify;
   text-justify: inter-word;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Simonetta', sans-serif;
 }
 .inner-div {
   padding: 15px;
 }
 .inner-div p {
   color: black;
-  font-weight: 600;
   line-height: 28px;
   letter-spacing: 4px;
+  font-weight: 600;
   font-size: 18px;
 }
 .menu-para span {
@@ -711,6 +707,8 @@ h1 span:nth-child(9) {
 }
 .card1{
   float: left;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
 }
 .card1 h4{
   font-size:1.4rem;
@@ -723,6 +721,8 @@ h1 span:nth-child(9) {
 }
 .card2{
   float: right;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
   height: 50%;
   align-items: center;
   justify-content: space-between;
@@ -775,7 +775,7 @@ h1 span:nth-child(9) {
 }
 .ksr > div{
   width: 50%;
-  padding: 12px;
+  padding: 15px;
 }
 .dep-co{
   margin: 0 0 1rem 0;
@@ -1068,6 +1068,9 @@ h1 span:nth-child(9) {
     width: 100%;
     margin: 1rem 0;
   }
+  .card1, .card2{
+    border-radius: 0px;
+  }
   .hero h1 {
     transform: scale(1.2) skew(-5deg);
   }
@@ -1111,7 +1114,11 @@ h1 span:nth-child(9) {
     letter-spacing: 0px;
   }
   .event-text {
-    padding: 20px 0 0 0;
+    padding: 30px 0 0 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
   .event-text p {
     font-size: 12px;
