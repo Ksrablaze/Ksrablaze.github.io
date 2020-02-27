@@ -24,6 +24,7 @@ button, a{
   cursor: pointer;
 }
 .container-fluid {
+  min-height: 100vh;
   height: auto;
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
@@ -294,7 +295,7 @@ nav {
   background: linear-gradient(#ba8b02, #f8b500);
 }
 .timer {
-  padding: 2rem 0 0 0;
+  padding: 4rem 0 0 0;
   height: auto;
   width: 100%;
   text-align: center;
@@ -538,6 +539,7 @@ nav {
   -webkit-background-clip: text;
   color: transparent;
 }
+
 .about {
   font-family: "Montserrat", sans-serif;
   width: 100%;
@@ -1183,7 +1185,7 @@ h1 span:nth-child(9) {
     font-size: 18px;
   }
   .timer {
-    padding: 0;
+    padding: 1rem 0;
   }
   .smalltext {
     font-size: 15px;
