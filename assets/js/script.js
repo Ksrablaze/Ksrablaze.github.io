@@ -113,14 +113,13 @@ function getData() {
           <h4>K.S.R. COLLEGE OF ENGINEERING</h4>
           <h2>Tech fest 2k20</h2>
           <div class="btn">
-            <a href="#">
+            <a href="https://mail.google.com/mail/u/0?ui=2&ik=d34379d2bc&attid=0.1&permmsgid=msg-f:1659682186202104212&th=17086027ac9ec194&view=att&disp=inline&realattid=f_k74juu1x0" target="_blank">
               <span></span>
               <span></span>
               <span></span>
               <span></span>
               Broucher
             </a>
-
             <a href="https://docs.google.com/forms/d/e/1FAIpQLScP39NdgWYL9HOWjlasTBUSjW9-iLxNUOiPLecAGIXInkpdiQ/viewform?usp=sf_link" target="_blank">
               <span></span>
               <span></span>
@@ -139,7 +138,6 @@ function getData() {
         <span class="days" id="day"></span>
         <div class="smalltext">Days</div>
       </div>
-
       <div>
         <span class="hours" id="hour"></span>
         <div class="smalltext">Hours</div>
@@ -159,21 +157,17 @@ function getData() {
 <div class="cards-list">
   
 <div class="card one">
-
   <div class="card_title title-white">
     <h2>Symposium</h2>
     <h3>Registration Fee: <br> <span id="title1">&#8377;199 /- </span> only</h3>
   </div>
 </div>
-
   <div class="card two">
-
   <div class="card_title title-white">
     <h2>Work Shop</h2>
     <h3>Registration Fee: <br> <span id="title1">&#8377;199 /-</span> only</h3>
   </div>
 </div>
-
 <div class="card three">
   <div class="card_title title-white">
   <h2>Combo</h2>
@@ -181,8 +175,6 @@ function getData() {
   </div>
 </div>
   
-
-
 </div>
 <div class="symp-events">
   <div class="heading">
@@ -221,7 +213,6 @@ function getData() {
       </div>
       <div class="gif gif2"></div>
     </div>
-
     <div class="main-wrapper">
       <div class="gif gif3"></div>
       <div class="event event1">
@@ -254,13 +245,11 @@ function getData() {
             </p>
             <h4>P a y b a c k!</h4>
             <p>Registration Fees: &#8377;50</p>
-
           </div>
         </div>
       </div>
       <div class="gif gif4"></div>
     </div>
-
     <div class="main-wrapper">
       <div class="gif gif5"></div>
       <div class="event event1">
@@ -271,14 +260,13 @@ function getData() {
           <div class="event-text">
             <p>Send your photos in instagram link given below.</p>
               <p>Short film must have atleast 10 mins of duration.</p>    
-      <p><a class="insta" href="https://www.instagram.com/ablaze_t20?r=nametag" target="_blank"><i class="fab fa-instagram insta"></i> Instagram</a> <span><< </p>
+      <p><a class="insta" href="https://www.instagram.com/ablaze_t20?r=nametag" target="_blank"><i class="fab fa-instagram insta"></i> Instagram</a> <span id="arrow"><< </span></p>
           </div>
         </div>
       </div>
     </div>
   </div>
 </div>
-
 <div class="about">
   <div class="left-wrapper">
     <div class="inner-div">
@@ -319,7 +307,6 @@ function getData() {
   </div>
 </div>
 <div id="about">
-
   <div class="about">
     
     <div class="about-card card1">
@@ -358,9 +345,7 @@ function getData() {
         <p>Class Co-ordinator</p>
         <p>Computer Science & ENGINEERING</p>
       </div>
-
       <h1 id="title">Convener</h1>
-
       <ul class="convener">
         
         <li>
@@ -389,7 +374,6 @@ function getData() {
          </p>
         </li>
       </ul>
-
       <h1 id="title">Committee</h1>
       <ul class="committee">
         <li>
@@ -406,28 +390,20 @@ function getData() {
         </li>
         <li>
           <p>
-            <b> T. Prakash</b>(Joint Secretory)
+            <b>L.I.Poomani</b>(Joint Secretory)
           </p>
         </li>
         <li>
           <p>
             <b>P. Vimalkkumar</b>(Treasurer)</p>
         </li>
-        <li>
-          <p>
-            <b>L. I. Poomani</b>(Joint Treasurer)
-          </p>
-        </li>
       </ul>
   </div>
 </div>
 </div>
 <footer id="contact" class="footer-distributed" style="flex-shrink: 0;">
-
 <div class="footer-left">
-
   <h3><span>K.S.R.</span>College of Engineering</h3>
-
   <p class="footer-links">
     <a href="#" class="link-1">Home</a>
     
@@ -437,36 +413,27 @@ function getData() {
    
     <a href="#">Contact</a>
   </p>
-
   <p class="footer-company-name"> © 2020 - K.S.R. College Of Engineering.</p>
 </div>
-
 <div class="footer-center">
-
   <div>
     <i class="fa fa-map-marker"></i>
     <p><span>K.S.R Kalvi Nagar</span>Tiruchengode, Namakkal-637215</p>
   </div>
-
   <div>
     <i class="fa fa-phone"></i>
     <p>(+91) 9865991491 (K.Gokul)</p>
   </div>
-
   <div>
     <i class="fa fa-envelope"></i>
     <p><a href="#">ablazet20@gmail.com</a></p>
   </div>
   
-
 </div>
-
 <div class="footer-right">
-
   <p class="footer-company-about">
       Designed and developed by <a href="#"><b>Future Developers</b></a>
   </p>
-
 </div>  
 </footer>`;
   document.getElementById("root").innerHTML = header;
