@@ -113,7 +113,7 @@ function getData() {
           <h4>K.S.R. COLLEGE OF ENGINEERING</h4>
           <h2>Tech fest 2k20</h2>
           <div class="btn">
-            <a href="https://mail.google.com/mail/u/0?ui=2&ik=d34379d2bc&attid=0.1&permmsgid=msg-f:1659682186202104212&th=17086027ac9ec194&view=att&disp=inline&realattid=f_k74juu1x0" target="_blank">
+            <a href="assets/images/broucher.png" target="_blank">
               <span></span>
               <span></span>
               <span></span>
@@ -255,7 +255,7 @@ function getData() {
       <div class="event event1">
         <div class="event-content event1-content">
           <h2>
-            Photography & <br>short-film
+            Mobile Photography & <br>short-film
           </h2>
           <div class="event-text">
             <p>Send your photos in instagram link given below.</p>
