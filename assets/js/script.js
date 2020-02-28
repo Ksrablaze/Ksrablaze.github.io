@@ -377,25 +377,25 @@ function getData() {
       <h1 id="title">Committee</h1>
       <ul class="committee">
         <li>
-          <p><b> K.Gokul</b> (Chairman)</p>
+          <p><b> K.Gokul</b> (Secretary)</p>
         </li>
         <li>
-          <p><b>S.Sathiya Raj</b> (Vice Chairman)</p>
+          <p><b>S.Sathiya Raj</b> (Secretary)</p>
         </li>
         <li>
-          <p><b> K.R.Prem Anand</b> (Vice Chairman)</p>
+          <p><b> K.R.Prem Anand</b>(Joint Secretary)</p>
         </li>
         <li>
-          <p><b> Nair Binesh Balan </b> (Secretory)</p>
+          <p><b> Nair Binesh Balan </b> (Joint Secretary)</p>
         </li>
         <li>
           <p>
-            <b>L.I.Poomani</b>(Joint Secretory)
+            <b>L.I.Poomani</b>(Treasurer)
           </p>
         </li>
         <li>
           <p>
-            <b>P. Vimalkkumar</b>(Treasurer)</p>
+            <b>Prakash</b>(Treasurer)</p>
         </li>
       </ul>
   </div>
