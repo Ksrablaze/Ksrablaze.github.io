@@ -466,7 +466,7 @@ const getTransition = () => {
     }
   });
 
-  var deadline = new Date("mar 10, 2020 9:0:0").getTime();
+  var deadline = new Date("mar 10, 2020 8:0:0").getTime();
 
   var x = setInterval(function() {
     var now = new Date().getTime();
