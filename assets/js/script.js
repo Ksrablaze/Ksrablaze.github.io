@@ -414,7 +414,7 @@ function getData() {
    
     <a href="#">Contact</a>
   </p>
-  <p class="footer-company-name"> Â© 2020 - K.S.R. College Of Engineering.</p>
+  <p class="footer-company-name"> © 2020 - K.S.R. College Of Engineering.</p>
 </div>
 <div class="footer-center">
   <div>
