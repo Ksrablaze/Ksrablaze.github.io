@@ -204,8 +204,9 @@ function getData() {
             Paper bestoval
           </h2>
           <div class="event-text">
+            
             <p>
-              Recent topics in all engineering fields.
+              Recent topics in all engineering fields can be presented.
             </p>
             <p>Cash prize will be awarded for winner and runner.</p>
           </div>
@@ -241,7 +242,7 @@ function getData() {
           <div class="event-text">
             <p>
               Totally there are 3 rounds.
-              <br>winner and runner will be rewarded.
+              <br>Winner and Runner will be rewarded.
             </p>
             <h4>P a y b a c k!</h4>
             <p>Registration Fees: &#8377;50</p>
@@ -255,10 +256,10 @@ function getData() {
       <div class="event event1">
         <div class="event-content event1-content">
           <h2>
-            Mobile Photography & <br>short-film
+            Pixalaze & <br>short-film
           </h2>
           <div class="event-text">
-            <p>Send your photos in instagram link given below.</p>
+            <p>Send your photos in instagram link given below.(Moblie Photography)</p>
               <p>Short film must have atleast 10 mins of duration.</p>    
       <p><a class="insta" href="https://www.instagram.com/ablaze_t20?r=nametag" target="_blank"><i class="fab fa-instagram insta"></i> Instagram</a> <span id="arrow"><< </span></p>
           </div>
@@ -315,26 +316,26 @@ function getData() {
           <div class="lion">
             <img src="https://icsm2k19.github.io/assets/images/prof/Chairman1.png" height="100px" width="100px">
             <h5>Lion. Dr.K.S.Rangasamy, MJF.</h5>
-            <p>FOUNDER & CHAIRMAN</p>
-             <p>K.S.R. EDUCATIONAL INSTITUTIONS</p>
+            <p>Founder & Chairman</p>
+             <p>K.S.R. Educational Institutions</p>
           </div>
           <div class="small-lion">
             <img src="https://icsm2k19.github.io/assets/images/prof/seceretry.png" height="100px" width="100px">
             <h5>Thiru. R.Srinivasan, B.B.M.,MISTE</h5>
-            <p>VICE CHAIRMAN</p>
-            <p>K.S.R. EDUCATIONAL INSTITUTIONS</p>
+            <p>Vice Chairman</p>
+            <p>K.S.R. Educational Institutions</p>
           </div>
           <div class="principal">
             <img src="https://icsm2k19.github.io/assets/images/prof/ksrce_principal.jpg" height="100px" width="100px">
             <h5>Dr.P.Senthil Kumar, M.E., Ph.D.,</h5>
             <p>Principal</p>
-            <p>K.S.R. COLLEGE OF ENGINEERING</p>
+            <p>K.S.R. College of Engineering</p>
           </div>
           <div class="hod">
             <img src="http://www.ksrce.ac.in/admin/file_manager/source/BE%20(CSE)/UG-CSE/1.jpg" height="100px" width="100px">
             <h5>Dr. A. Rajiv Kannan, Ph.D.,</h5>
             <p>Head of the Department</p>
-            <p>COMPUTER SCIENCE & ENGINEERING</p>
+            <p>Computer Science & Engineering</p>
           </div>
         </div>
       
@@ -342,8 +343,8 @@ function getData() {
     <div class="about-card card2">
       <div class="dep-co">
         <h5>Dr. V. Sharmila, Ph.D.,</h5>
-        <p>Class Co-ordinator</p>
-        <p>Computer Science & ENGINEERING</p>
+        <p>Professor & Academic Co-ordinator</p>
+        <p>Computer Science & Engineering</p>
       </div>
       <h1 id="title">Convener</h1>
       <ul class="convener">
@@ -377,25 +378,25 @@ function getData() {
       <h1 id="title">Committee</h1>
       <ul class="committee">
         <li>
-          <p><b> K.Gokul</b> (Secretary)</p>
+          <p><b>K.Gokul</b> (Secretary)</p>
         </li>
         <li>
-          <p><b>S.Sathiya Raj</b> (Secretary)</p>
+          <p><b>S.Sathiya Raj</b> (Joint Secretary)</p>
         </li>
         <li>
-          <p><b> K.R.Prem Anand</b>(Joint Secretary)</p>
+          <p><b>Nair Binesh Balan</b>(Joint Secretary)</p>
         </li>
         <li>
-          <p><b> Nair Binesh Balan </b> (Joint Secretary)</p>
+          <p><b>K.R.Prem Anand</b>(Treasurer)</p>
         </li>
         <li>
           <p>
-            <b>L.I.Poomani</b>(Treasurer)
+            <b>L.I.Poomani</b>(Joint Treasurer)
           </p>
         </li>
         <li>
           <p>
-            <b>Prakash</b>(Treasurer)</p>
+            <b>P.VimalKKumar</b>(Joint Treasurer)</p>
         </li>
       </ul>
   </div>
@@ -432,7 +433,7 @@ function getData() {
 </div>
 <div class="footer-right">
   <p class="footer-company-about">
-      Designed and developed by <a href="#"><b>Future Developers</b></a>
+      Designed and developed by <br><a href="#"><b>Future Developers</b></a>
   </p>
 </div>  
 </footer>`;
